@@ -22,6 +22,6 @@
 
 
 ## 📕 Contributors
-| [bykim]() | [Crinex]() |
+| [bykim](https://github.com/nekh802) | [Crinex]() |
 |:---:|:---:|
 | [doyeon](https://github.com/dddooo9) | [heheui]() |
